@@ -1,6 +1,6 @@
 <!-- Header Banner (Animated Wave) -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:3b1361,100:5b1d82&height=210&section=header&text=Yose%20Siagian&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20%26%20Workflow%20Automation&descSize=16&descAlignY=58&textAlignY=38&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:3b1361,100:5b1d82&height=210&section=header&text=Yose%20Siagian&fontSize=42&fontColor=ffffff&desc=Full-Stack%20Web%20Developer%20%7C%20AI%20and%20Workflow%20Automation&descSize=16&descAlignY=58&textAlignY=38&animation=twinkling" width="100%" />
 </div>
 
 <div align="center">
